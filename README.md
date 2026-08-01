@@ -16,8 +16,7 @@
 <br/>
 
 ## 🧑‍💻 Who I Am
-
-```typescript
+typescript
 const Manoj Gowda= {
   title: "Information Science & Engineering Student | AI/ML Enthusiast",
   stack: ["Python", "C", "Java", "HTML", "CSS", "SQL", "Git", "GitHub", "VS Code", "Power BI"],
@@ -35,7 +34,6 @@ const Manoj Gowda= {
   status: "Actively seeking opportunities 🔍",
   openTo: ["AI Engineering", "Machine Learning", "Data Science", "Python Development", "Generative AI", "Software Engineering"]
 };
-```
 
 <br/>
 
