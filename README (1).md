@@ -17,10 +17,9 @@
 
 ## 🧑‍💻 Who I Am
 
-typescript
-const manoj = {
-  title: "Information Science & Engineering Student | AI/ML Enthusiast",
-  stack: ["Python", "C", "Java", "HTML", "CSS", "SQL", "Git", "GitHub", "VS Code", "Power BI"],
+ MANOJ GOWDA = {
+  I'M : "Information Science & Engineering Student In DON BASCO INSTUTION OF TECHNOLAGY| AI/ML Enthusiast",
+  Lang: ["Python", "C", "Java", "HTML", "CSS", "SQL", "Git", "GitHub", "VS Code", "Power BI"],
   launchedProjects: [
     "Multi-Agent Collaboration System",
     "UPI Fraud Detection System",
